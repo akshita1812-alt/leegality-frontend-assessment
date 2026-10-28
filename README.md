@@ -97,11 +97,10 @@ src/
 
 **Vercel:** Import the GitHub repository, select Vite, use `npm run build`, and publish the `dist` directory. Vercel supports SPA fallback configuration through `vercel.json` included here.
 
-**Netlify:** Build command `npm run build`, publish directory `dist`. The included `public/_redirects` ensures client-side routes work after refresh.
 
 ## Submission
 
-- **GitHub repository:** Add your URL after publishing.
+- **GitHub repository:** https://github.com/akshita1812-alt/leegality-frontend-assessment.
 - **Live demo:** Add your Vercel or Netlify URL after deployment.
 
 Assessment project built using public mock product data provided by DummyJSON.
