@@ -101,6 +101,6 @@ src/
 ## Submission
 
 - **GitHub repository:** https://github.com/akshita1812-alt/leegality-frontend-assessment.
-- **Live demo:** Add your Vercel or Netlify URL after deployment.
+- **Live demo:** https://leegality-frontend-assessment-src.vercel.app/.
 
 Assessment project built using public mock product data provided by DummyJSON.
